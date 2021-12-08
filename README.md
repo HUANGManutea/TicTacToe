@@ -32,12 +32,12 @@ Ce projet n'est pas la propriété d'OSB.
 
 - cloner ce repo
 ```
-git clone TODO
+git clone https://github.com/HUANGManutea/TicTacToe.git
 ```
 
 - installer les dépendances
 ```
-cd TODO
+cd TicTacToe
 npm install
 npm install esm
 ```
