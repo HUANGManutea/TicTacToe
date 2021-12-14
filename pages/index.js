@@ -1,6 +1,9 @@
 import Link from 'next/link'
 export default function Home() {
   return (
-    <Link href="/game">Game</Link>
+    <div>
+      <Link href="/game">Game</Link>
+      <p></p>
+    </div>
   )
 }
